@@ -1,0 +1,70 @@
+h1{
+    color:brown
+} 
+
+h2{
+    color:blue
+}
+
+.header *{
+    border: solid;
+}
+
+body{
+background-color:rgb(128, 128,128) ;
+} 
+
+.header {
+background-color: cyan;
+margin: 30px;
+padding-left: 30px;
+}
+
+.grid{
+background-color: rgb(128, 128,128);
+margin: 30px;
+padding-left: 30px;
+}
+
+p,h2,img{
+    text-align: center;
+}
+
+.item{
+background-color: pink;
+padding-left: 30px;
+} 
+
+.item1{
+background-color: pink;
+padding-left: 30px;
+} 
+
+a:link{
+color: white;
+}
+
+a:visited{
+color:white;
+}
+.item:hover img{
+opacity:0.33;
+}
+.header:hover img{
+opacity: 0.33;
+}
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
